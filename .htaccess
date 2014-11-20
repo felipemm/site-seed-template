@@ -1,0 +1,7 @@
+RewriteEngine On
+RewriteBase /projects/new    
+RewriteRule ^([a-z0-9\-\_]+)/([a-z0-9\-\_]+)/([a-z0-9\-\_]+)/([a-z0-9\-\_]+)/([a-z0-9\-\_]+)?$ index.php?page=$1&action=$2&value=$3&value2=$4&value3=$5 [L]
+RewriteRule ^([a-z0-9\-\_]+)/([a-z0-9\-\_]+)/([a-z0-9\-\_]+)/([a-z0-9\-\_]+)?$ index.php?page=$1&action=$2&value=$3&value2=$4 [L]
+RewriteRule ^([a-z0-9\-\_]+)/([a-z0-9\-\_]+)/([a-z0-9\-\_]+)?$ index.php?page=$1&action=$2&value=$3 [L]
+RewriteRule ^([a-z0-9\-\_]+)/([a-z0-9\-\_]+)?$ index.php?page=$1&action=$2 [L]
+RewriteRule ^([a-z0-9\-\_]+)?$ index.php?page=$1 [L]

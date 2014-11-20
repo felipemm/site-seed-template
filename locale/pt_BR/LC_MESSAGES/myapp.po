@@ -1,0 +1,570 @@
+# Copyright (C) 2014 Felipe Matos Moreira
+# This file is distributed under the same license as the PACKAGE package.
+# Felipe Matos Moreira <chucky_ath@yahoo.com.br>, 2014.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: myapp\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-08-08 14:07-0300\n"
+"PO-Revision-Date: 2014-08-08 15:59-0300\n"
+"Last-Translator: Felipe Matos Moreira <felipe.moreira@f2minformatica.com."
+"br>\n"
+"Language-Team: Felipe <felipe@felipematos.com>\n"
+"Language: pt_BR\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.7\n"
+"X-Poedit-Basepath: .\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: C:\\Users\\FMOREIRA\\Dropbox\\PortableApps"
+"\\PortableApps\\XAMPP\\App\\xampp\\htdocs\\felipematos.com\n"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:107
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/teste.php:31
+msgid "Profile"
+msgstr "Perfil"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:107
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/teste.php:30
+msgid "Monday"
+msgstr "Segunda"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:108
+msgid "Work"
+msgstr "Trabalho"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:109
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:355
+msgid "Resume"
+msgstr "Currículo"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:110
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:544
+msgid "Blog"
+msgstr "Blog"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:111
+msgid "Contact"
+msgstr "Contato"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:122
+msgid "Hello, I am"
+msgstr "Olá, eu sou "
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:122
+msgid "Web Developer and Software Architect"
+msgstr "Desenvolverdor Web e Arquiteto de Softwares"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:124
+msgid ""
+"I am a professional with more than 10 years of experience in IT, working in "
+"several areas like business intelligence, software development and Oracle "
+"Retail implementation. Great knowledge developing web applications with "
+"ExtJS and PHP, and others. I'm a quick-learner and a team collaborator, "
+"always commited to deliver excellence to our clients."
+msgstr ""
+"Sou um profissional com mais de 10 anos de experiência em TI, trabalhando em "
+"diversas áreas como business intelligence, desenvolvimento de aplicações e "
+"implementações de sistemas Oracle Retail. Possuo um grande conhecimento no "
+"desenvolvimento de aplicações web utilizando Javascript e frameworks (ExtJS "
+"e jQuery), PHP e outros. Sou uma pessoa de rápido aprendizado com espírito "
+"de equipe, sempre empenhado em entregar excelência aos clientes."
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:126
+msgid "Personal Info"
+msgstr "Informações Pessoais"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:130
+msgid "name"
+msgstr "nome"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:130
+msgid "Felipe Matos Moreira"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:133
+msgid "date of birth"
+msgstr "Data de Nasc."
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:133
+msgid "February 28, 1986"
+msgstr "28 de fevereiro de 1986"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:136
+msgid "e-mail"
+msgstr "e-mail"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:136
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:658
+msgid "talkto@felipematos.com"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:139
+msgid "address"
+msgstr "endereço"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:139
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:656
+msgid "Vila Andrade, São Paulo/SP"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:142
+msgid "phone"
+msgstr "Telefone"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:142
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:657
+#, fuzzy
+msgid "+55 19 99239 6669"
+msgstr "(19) 99207-4951"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:145
+msgid "website"
+msgstr "site"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:145
+msgid "www.felipematos.com"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:148
+msgid "skype"
+msgstr "skype"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:148
+msgid "@felipematosmoreira"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:163
+msgid "Portfolio"
+msgstr "Portfólio"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:167
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:359
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:548
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:638
+msgid "Go to next/previous page"
+msgstr "Próxima/Voltar página"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:179
+msgid "All"
+msgstr "Tudo"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:180
+msgid "Web Design"
+msgstr "Web Design"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:181
+msgid "App Icons"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:182
+msgid "iOS App UI"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:183
+msgid "Illustration"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:192
+msgid "Cool App Design"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:193
+msgid "branding, logo"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:369
+msgid "Education"
+msgstr "Educação"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:373
+msgid "Computer Technician"
+msgstr "Técnico de Informática"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:374
+msgid "2001 - 2004"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:375
+msgid ""
+"Technical High School COTUCA, located in Campinas/SP and operated by the "
+"UNICAMP college."
+msgstr ""
+"Escola Técnica COTUCA, localizado em Campinas/SP e operado pela UNICAMP"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:378
+msgid "Bachelor in Computer Engineering"
+msgstr "Graduado em Engenharia da Computação"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:379
+msgid "2006 - 2010"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:380
+msgid "Bachelor at Veris Faculdades (former METROCAMP), located in Campinas/SP"
+msgstr ""
+"Graduação na Veris Faculdades (antiga METROCAMP), localizada em Campinas/SP"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:385
+msgid "Certifications"
+msgstr "Certificações"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:389
+msgid ""
+"Oracle Retail Predictive Application Server 13 Certified Implementation "
+"Specialist"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:390
+msgid "2014"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:393
+msgid "IBM Certified Designer – Cognos 8 BI Reports"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:394
+msgid "2010"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:397
+msgid "ITIL v3 Foundation Certified"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:398
+msgid "2009"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:401
+msgid "IBM DB2 UDB Certified Associate v8.1"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:402
+msgid "2008"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:405
+msgid "Teradata Certified Professional V2R5"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:406
+msgid "2007"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:411
+msgid "Skills"
+msgstr "Skills"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:415
+msgid "IBM Cognos"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:415
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:447
+msgid "65%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:419
+msgid "Teradata"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:419
+msgid "95%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:423
+msgid "MySQL"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:423
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:455
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:475
+msgid "80%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:427
+msgid "Relational/Multidimensional Databases"
+msgstr "Banco de Dados Relacional/Multidimensional"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:427
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:435
+msgid "90%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:431
+msgid "SQL Tuning & Performance"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:431
+msgid "75%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:435
+msgid "ETL (Extract, Transform & Load)"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:439
+msgid "CMMI Project Documentation"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:439
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:463
+msgid "55%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:443
+msgid "Scrum/Agile Methodology"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:443
+msgid "50%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:447
+msgid "ITIL"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:451
+msgid "C# (.net 2.0)"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:451
+msgid "45%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:455
+msgid "Javascript (ExtJS and jQuery)"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:459
+msgid "PHP"
+msgstr "PHP"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:459
+msgid "85%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:463
+msgid "Mainframe (JCL / TSO / CA7)"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:467
+msgid "Java (J2SE)"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:467
+msgid "40%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:471
+msgid "Oracle Retail Preditive Application Server (RPAS)"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:471
+msgid "98%"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:475
+msgid "Oracle Retail Clearance Optimization Engine (COE)"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:481
+msgid "Services"
+msgstr "Serviços"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:486
+msgid "Coding"
+msgstr "Codificação"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:490
+msgid "Wordpress"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:494
+msgid "SQL Tuning"
+msgstr "Tuning de SQL"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:498
+msgid "Responsive"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:502
+msgid "Planing"
+msgstr "Planejamento"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:506
+msgid "Consulting"
+msgstr "Consultoria"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:511
+msgid "Work Experience"
+msgstr "Experiência"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:515
+msgid "Logic Information Systems - Senior Oracle Retail Consultant"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:516
+msgid "since March/2011"
+msgstr "desde Março/2011"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:517
+msgid "Environment: UNIX, Java, WebLogic, Oracle, Oracle Retail Applications"
+msgstr "Ambiente: UNIX, Java, WebLogic, Oracle, Oracle Retail Applications"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:518
+msgid ""
+"Played different roles into Oracle Retail world, with a major focus on "
+"Planning & Optimization modules (MFP, RDF, COE), working in application "
+"support for these systems, like emergency hotfixes into batch processing, "
+"bug fixes on tool configuration, follow ups with Oracle on Service Requests, "
+"apply systems patches, process optimizations, final user support and all "
+"client support activities, assuring delivery with quality, within "
+"established SLA parameters. Other than Planning & Optimizations modules, it "
+"also have other assignments, working in Oracle Retail implementation "
+"projects for large fashion retailers in Brazil, working on testing "
+"executions for several other modules like RMS (Retail Merchandise System) "
+"and Oracle Retail Allocations. Other roles in projects include developing "
+"CRP (Conference Room Pilot) final reports, design and developing other "
+"modules."
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:521
+msgid "IBM - IT Specialist/Team Leader"
+msgstr "IBM - Especialista em TI/Líder de Equipe"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:522
+msgid "July/2006 to March/2011"
+msgstr "de Julho/2006 até Março/2011"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:523
+msgid ""
+"Environment: Windows, Mainframe, UNIX, Teradata v13, Actuate 9, Visual "
+"Studio 2005, Cognos, dotProject"
+msgstr ""
+"Ambiente: Windows, Mainframe, UNIX, Teradata v13, Actuate 9, Visual Studio "
+"2005, Cognos, dotProject"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:524
+msgid ""
+"Team leader in an international IBM project for a large client in the "
+"healthcare business, being responsible for creation, distribution and "
+"support of company's reporting processes, reporting for government, clients "
+"or for internal use. Responsible for coordinating the projects assigned to "
+"the team, managing deadlines, deliverables, risks and acting as a point of "
+"contact between client and development team, receiving client's requirements "
+"from business area. Report creation using SQL and performing maintenance/"
+"tuning of the SQL code, also other processes related to client's data "
+"warehouse, like ETL and batch processing for data summarization. I also "
+"developed tools using .Net C# to automate processes and controls of the "
+"reports that were currently made manually by the users. Actively participate "
+"in the conversion of all clients’ reports from Actuate to IBM Cognos, "
+"working from the requirements to the development of the reports and "
+"coordinating the team on the migration. All projects were documented and "
+"executed following CMMI standards. The team used Redmine to control/keep "
+"track of all tasks and projects. Also played other roles in the project, "
+"being a technical focal point in SQL/Teradata, mentoring new employees, "
+"creating training classes for Crystal Reports for other projects at IBM and "
+"other IBM business controls for the account."
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:527
+msgid "CPD Sistemas de Informática LTDA - Intern/Developer"
+msgstr "CPD Sistemas de Informática LTDA - Estagiário/Desenvolvedor"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:528
+msgid "March/2004 to March/2006"
+msgstr "de Março/2004 até Março/2006"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:529
+msgid ""
+"Environment: Windows, Visual Basic 6, Crystal Reports 8, Microsoft SQL "
+"Server 2000"
+msgstr ""
+"Ambiente: Windows, Visual Basic 6, Crystal Reports 8, Microsoft SQL Server "
+"2000"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:530
+msgid ""
+"Worked on the development of ERP for small companies to control finance, "
+"sales and product stock. Responsible for analyzing client's requirements and "
+"implement the requests in the application, and also make the maintenance and "
+"improvements of the tool, creating new features and fixing bugs reported by "
+"the clients. Also responsible for receiving all the client's request for "
+"customized reports and develop them in Crystal Reports and add it to the "
+"tool. Also worked on client on-site support, training users, fixing "
+"infrastructure issues on network, PC, and other necessary support to keep "
+"the software up and running."
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:564
+msgid "Standard Post with Image"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:566
+msgid "30 march"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:567
+msgid "Admin"
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:634
+msgid "Contact Me"
+msgstr "Entre em Contato"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:653
+msgid "Contact info"
+msgstr "Informações de Contato"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:654
+msgid ""
+"This is Photoshop's version  of Lorem Ipsum. Proin gravida nibh vel velit "
+"auctor aliquet. Aenean sollicitudin, lorem quis bibendum auctor, nisi elit "
+"consequat ipsum, nec sagittis sem nibh id elit. Duis sed odio sit amet nibh "
+"vulputate cursus a sit amet mauris. Morbi accumsan ipsum velit. Nam nec "
+"tellus a odio tincidunt auctor a ornare odio."
+msgstr ""
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:662
+msgid "Send me a message"
+msgstr "Envie uma mensagem"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:666
+msgid "Name"
+msgstr "Nome"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:668
+msgid "Subject"
+msgstr "Assunto"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:671
+msgid "Message"
+msgstr "Mensagem"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:672
+msgid "Send"
+msgstr "Enviar"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:677
+msgid "Thanks for sending your message! I'll get back to you shortly."
+msgstr ""
+"Obrigado por enviar sua mensagem! Irei te retornar o mais breve possível"
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:680
+msgid "There was a problem sending your message. Please try again."
+msgstr "Houve um problema ao enviar sua mensagem. Por favor tente novamente."
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:683
+msgid "Please complete all the fields in the form before sending."
+msgstr "Por favor complete todos os campos do formulário antes de enviar."
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/index.php:696
+msgid "2014 Felipe Matos Moreira. All Rights Reserved"
+msgstr "2014 Felipe Matos Moreira. Todos os direitos reservados."
+
+#: C:\Users\FMOREIRA\Dropbox\PortableApps\PortableApps\XAMPP\App\xampp\htdocs\felipematos.com/teste.php:29
+msgid "Tuesday"
+msgstr "Terça"
